@@ -26,15 +26,15 @@ const Experience: React.FC = () => {
     {
       id: 1,
       type: 'work',
-      title: 'Web Development Intern',
+      title: 'Full Stack Web Development Intern',
       company: 'Sublime Technology',
       location: 'Chhatrapati Sambhaji Nagar, India',
       period: 'Jan 2025 – Jul 2025',
       description:
-        ' Worked as a Web Development Intern where I gained hands-on experience in real-world projects, focusing on React.js, Node.js, and backend integration.',
+        ' Worked as a full stack Web Development Intern where I gained hands-on experience in real-world projects, focusing on React.js, Node.js, and backend integration.',
       achievements: [
         'Cracked my very first interview and landed my first internship',
-        'Worked on building full-stack features with React and Express',
+        'Worked on ERP System for building full-stack features with React and Express ',
         'Improved problem-solving and team collaboration skills',
       ],
       gradient: 'from-purple-600 to-blue-600',
@@ -45,12 +45,12 @@ const Experience: React.FC = () => {
       title: 'Bachelor of Technology (CSE)',
       company: 'Shreeyash College of Engineering & Technology',
       location: 'Chhatrapati Sambhaji Nagar, India',
-      period: '2022 – Present',
+      period: '2022 – Expected aug 2026',
       description:
         'Pursuing B.Tech in Computer Science and Engineering. Actively learning web technologies, programming, and problem-solving.',
       achievements: [
         'Specialized in C, C++, OOP concepts, and Web Development',
-        'Built projects like Tourist Guide App, Attendance Management System, and Betting Platform',
+        'Built projects like Tourist Guide App, Attendance Management System',
         'Participated in coding and technical events to sharpen skills',
       ],
       gradient: 'from-blue-600 to-cyan-600',
@@ -61,9 +61,9 @@ const Experience: React.FC = () => {
       title: 'Higher Secondary Education (12th)',
       company: 'Deogiri College chh.Sambhaji Nagar',
       location: 'Chhatrapati Sambhaji Nagar, India',
-      period: '2020 – 2022',
+      period: '2020 – 2021',
       description:
-        'Completed Higher Secondary (12th, Science stream) with a focus on Mathematics and Computer fundamentals.',
+        'Completed Higher Secondary (12th, Science stream, 78.33%) with a focus on Mathematics and Computer fundamentals.',
       achievements: [
         'Laid the foundation for Computer Science journey',
         'Developed an early interest in coding and logical thinking',

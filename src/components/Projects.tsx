@@ -29,9 +29,9 @@ const Projects: React.FC = () => {
   category: 'Machine Learning',
   description: 'A smart browser extension that uses AI to detect and block malicious phishing websites in real-time.',
   longDescription: 'Developed for the Smart India Hackathon (SIH), this browser extension proactively blocks phishing sites. It uses a Machine Learning model (Python, Scikit-learn, Flask) to analyze URL features in real-time. The frontend, built with JavaScript, offers both on-demand manual scanning and continuous automatic protection.',
-  image: 'https://images.pexels.com/photos/5380664/pexels-photo-5380664.jpeg', // A relevant cybersecurity image
+  image: 'https://images.pexels.com/photos/5380664/pexels-photo-5380664.jpeg', 
   tags: ['Python', 'Machine Learning', 'Scikit-learn', 'Flask', 'JavaScript', 'Cybersecurity'],
-  github: 'https://github.com/pankajkhadse/phish_net_prototype', // Replace with your actual repo link
+  github: 'https://github.com/RahulWavhale/phishnet_extention_2.0', 
   demo: 'https://www.linkedin.com/feed/update/urn:li:activity:7384230775472332800/?originTrackingId=gg9yTrZU%2B1N3hfZ%2BreIPtQ%3D%3D', // Replace with the link to your LinkedIn video post
   gradient: 'from-blue-600 to-teal-500'
 },
